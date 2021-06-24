@@ -1,3 +1,7 @@
 # MyTest
+>
 Это всё для температуры
-pyinstaller --onefile --noconsole main.py
+>
+Для создания exe файла используется команда: pyinstaller --onefile --noconsole main.py
+>
+Исполняемый файл находится в папке dist
